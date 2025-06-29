@@ -6,7 +6,7 @@ permalink: /teaching/
 
 # Teaching Experience
 
-| Course                 | University                                    |  Role              |
-| :--------------------: |:---------------------------------------------:| :-----------------:|
-| Text Manipulation      | University of Groningen                       | Teaching Assistant |
+| Course                 | University                    |  Role              | Description           |
+| :--------------------: |:-----------------------------:| :-----------------:|
+| Text Manipulation      | University of Groningen<br>Groningen, Netherlands         | Teaching Assistant | + Unix commands<br>+ XML & XSLT
 
