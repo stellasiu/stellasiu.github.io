@@ -6,7 +6,11 @@ permalink: /teaching/
 
 # Teaching Experience
 
-| Course                 | University                    |  Role              | Description           |
-| :--------------------: |:-----------------------------:| :-----------------:|
-| Text Manipulation      | University of Groningen<br/>Groningen, Netherlands         | Teaching Assistant | + Unix commands<br/>+ XML & XSLT
+## 2024-2025
 
+Course: Text Manipulation
+University: University of Groningen \| Groningen, Netherlands
+Role: Teaching Assistant
+Description:
++ Unix commands
++ XML & XSLT
