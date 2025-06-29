@@ -5,8 +5,8 @@ permalink: /teaching/
 ---
 
 # Teaching Experience
-<div align="center">
+<center>
 | Course                 | University                                    |  Role              |
 | :--------------------: |:---------------------------------------------:| :-----------------:|
 | Text Manipulation      | University of Groningen                       | Teaching Assistant |
-</div>
+</center>
