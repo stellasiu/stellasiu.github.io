@@ -10,4 +10,4 @@ permalink: /teaching/
 ### Teaching Assistant
 | Course                 | University                 | Description                        |
 | :--------------------: |:--------------------------:| :---------------------------------:|
-| Text Manipulation      | University of Groningen<br>Groningen, Netherlands | + Unix commands<br>+ XML & XSLT |
+| Text Manipulation      | University of Groningen<br> Groningen, Netherlands | + Unix commands<br> + XML & XSLT |
