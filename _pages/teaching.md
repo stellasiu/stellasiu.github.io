@@ -8,6 +8,6 @@ permalink: /teaching/
 
 ## 2024-2025
 ### Teaching Assistant
-| Course                 | University                 | Description           |
-| :--------------------: |:--------------------------:| :--------------------:|
+| Course                 | University                 | Description                        |
+| :--------------------: |:--------------------------:| :---------------------------------:|
 | Text Manipulation      | University of Groningen<br/>Groningen, Netherlands | + Unix commands<br/>+ XML & XSLT |
