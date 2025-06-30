@@ -54,8 +54,8 @@ permalink: /about/
 
 
 ## Research Interest
-* Speech Perception
-* Acoustic Analysis
-* Medical ASR and TTS
-* Voice Biomarker Research
-* Cantonese & Hakka TTS
++ Speech Perception
++ Acoustic Analysis
++ Medical ASR and TTS
++ Voice Biomarker Research
++ Cantonese & Hakka TTS
