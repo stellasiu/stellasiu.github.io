@@ -4,10 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Teaching Experience
-
-## 2024-2025
-### Teaching Assistant
+### 2024-2025
 
 <table style="width: 100%; border-collapse: collapse; border-style: hidden;" border="1">
 <tbody>
