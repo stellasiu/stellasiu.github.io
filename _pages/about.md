@@ -27,7 +27,6 @@ permalink: /about/
 <li>Elective: Pre-Modern Literature</li>
 <li>Minor: Information Science</li>
 </ul>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr style="border-style: hidden;">
