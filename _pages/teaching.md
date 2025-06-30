@@ -11,4 +11,4 @@ permalink: /teaching/
 
 | Course                 | University                 | Description                        |
 | :---: | :---:| :---: |
-| Text Manipulation      | University of Groningen<br>Groningen, Netherlands | + Unix commands<br>+ XML & XSLT |
+| Text Manipulation      | University of Groningen<br>Groningen, Netherlands | + Basic Unix commands<br>+ HTML, CSS, Markdown, XML & XSLT |
