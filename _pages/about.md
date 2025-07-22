@@ -12,7 +12,6 @@ permalink: /about/
 <td style="width: 70%; height: 142px;">
 <p><strong>University of Groningen</strong></p>
 <p>Groningen, Netherlands<br />Sep 2024－Present</p>
-<p>CGPA: 8.3/10</p>
 </td>
 </tr>
 <tr style="border-style: hidden;">
@@ -20,7 +19,6 @@ permalink: /about/
 <td style="width: 70%; height: 110px;">
 <p><strong>University of Groningen</strong></p>
 <p>Groningen, Netherlands<br />Sep 2020－Aug 2024</p>
-<p>CGPA: 7.6/10</p>
 <ul>
 <li>Major: Dutch as a Foreign Language</li>
 <li>Profile: Linguistics</li>
@@ -41,7 +39,7 @@ permalink: /about/
 <td style="width: 70%; height: 18px;">
 <p><strong>Lingnan University</strong></p>
 <p>Hong Kong<br />Sep 2012－Aug 2015</p>
-<p>CGPA: 3.37/4 (Second Upper Class Honour)</p>
+<p>Second Upper Class Honour</p>
 <ul>
 <li>Focus: Classical Chinese Literature</li>
 </ul>
