@@ -39,6 +39,15 @@ permalink: /projects/
 <td style="width: 50%; border-style: hidden; text-align: center;"><strong>Description</strong></td>
 </tr>
 <tr style="height: 18px;">
+<td style="width: 30%; border-style: hidden; text-align: center;"><a href="https://github.com/stellasiu/2025thesisdemo" target="_blank">Speaking Volumes: How Acoustic Features Reveal Speaker Height</a></td>
+<td style="width: 20%; border-style: hidden; text-align: center;">
+<p>／</p>
+</td>
+<td style="width: 50%; border-style: hidden; text-align: center;">
+<p>This is the demo of my Master's thesis project. </p>
+</td>
+</tr>
+<tr style="height: 18px;">
 <td style="width: 30%; border-style: hidden; text-align: center;"><a href="https://github.com/j-koko/keyword_recognition" target="_blank">Keyword Recognition with CNN and Convolutional Autoencoder</a></td>
 <td style="width: 20%; border-style: hidden; text-align: center;">
 <p>Jan Kokowski, Tiantian Zhang</p>
