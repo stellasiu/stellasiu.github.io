@@ -25,7 +25,7 @@ permalink: /projects/
 </tbody>
 </table>
 
-
+https://github.com/j-koko/Accent_Guessing_Demo
 
 ## Completed Projects
 
@@ -39,12 +39,21 @@ permalink: /projects/
 <td style="width: 50%; border-style: hidden; text-align: center;"><strong>Description</strong></td>
 </tr>
 <tr style="height: 18px;">
+<td style="width: 30%; border-style: hidden; text-align: center;"><a href="https://github.com/j-koko/Accent_Guessing_Demo" target="_blank">Interspeech Science Festival Demo</a></td>
+<td style="width: 20%; border-style: hidden; text-align: center;">
+<p>Jan Kokowski, Igor Marchenko, Gözde Kurtulmuş</p>
+</td>
+<td style="width: 50%; border-style: hidden; text-align: center;">
+<p>This is a web-based demo for the Science Festival at Interspeech 2025 consisting of a sample survey and an accent guessing game. I was responsible for the Qualtrics-based platform of both demos, Asian-language stimuli generation, and Dutch translation.</p>
+</td>
+</tr>
+<tr style="height: 18px;">
 <td style="width: 30%; border-style: hidden; text-align: center;"><a href="https://github.com/stellasiu/2025thesisdemo" target="_blank">Speaking Volumes: How Acoustic Features Reveal Speaker Height</a></td>
 <td style="width: 20%; border-style: hidden; text-align: center;">
 <p>/</p>
 </td>
 <td style="width: 50%; border-style: hidden; text-align: center;">
-<p>This is the demo of my Master's thesis project. </p>
+<p>This is the demo of my Master's thesis project. I took complete ownership of this thesis project, handling all aspects from start to finish.</p>
 </td>
 </tr>
 <tr style="height: 18px;">
@@ -53,7 +62,7 @@ permalink: /projects/
 <p>Jan Kokowski, Tiantian Zhang</p>
 </td>
 <td style="width: 50%; border-style: hidden; text-align: center;">
-<p>This project consists of two parts: (1) Optimizing the CNN Model for improved performance, (2) Replacing CNN with a convolutional autoencoder. </p>
+<p>This project consists of two parts: (1) Optimizing the CNN Model for improved performance, (2) Replacing CNN with a convolutional autoencoder. I handled the part of CNN model optimization.</p>
 </td>
 </tr>
 </tbody>
