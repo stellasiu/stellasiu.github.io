@@ -25,8 +25,6 @@ permalink: /projects/
 </tbody>
 </table>
 
-https://github.com/j-koko/Accent_Guessing_Demo
-
 ## Completed Projects
 
 ### 2025
