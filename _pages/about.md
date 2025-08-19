@@ -8,10 +8,10 @@ permalink: /about/
 <table style="height: 348px; width: 100%; border-collapse: collapse; border-style: hidden;" border="1">
 <tbody>
 <tr style="border-style: hidden;">
-<td style="width: 30%; height: 142px;">MSc in Voice Technology</td>
-<td style="width: 70%; height: 142px;">
+<td style="width: 30%; height: 100px;">MSc in Voice Technology</td>
+<td style="width: 70%; height: 100px;">
 <p><strong>University of Groningen</strong></p>
-<p>Groningen, Netherlands<br />Sep 2024－Present</p>
+<p>Groningen, Netherlands<br />Sep 2024－Aug 2025</p>
 </td>
 </tr>
 <tr style="border-style: hidden;">
